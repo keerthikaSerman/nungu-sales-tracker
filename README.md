@@ -1,2 +1,2 @@
 # nungu-sales-tracker
-A python application for tracking nungu stall sales and daily income.
+A python application for predecting ,tracking nungu stall sales and daily income.
